@@ -1,0 +1,35 @@
+	#top-header {
+		display:flex;
+		flex-direction:row;
+    margin-bottom:5px;
+	}
+	
+	#titulo {
+		display:flex;
+		width:59%;
+		text-align:left;
+		align-items:center;
+		margin:0;
+	}
+	
+	#titulo img {width: 35px; margin:0 15px 0 8px;}
+	
+	#titulo span {font-size:15px; font-weight:600; color:white;}
+	
+	#social {width: 39%; text-align: right;}
+	
+	#social a img {width:40px; padding-right: 10px;}
+	
+	@media only screen and (max-width: 320px) {
+		
+		#social a img {width:35px; padding-right: 5px;}
+    
+		.titulo {
+			font-weight:600;
+			margin-bottom:5px;
+			font-size:10px;
+    }
+    
+    #titulo img {width: 30px; margin:0 15px 0 8px;}
+		
+	}

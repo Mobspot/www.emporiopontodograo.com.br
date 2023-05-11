@@ -1,0 +1,55 @@
+	* {
+		text-align: center;
+  }
+	
+	#search {
+		width:90%;
+    margin:auto;
+  }
+  
+  #search input {
+    border-radius: 30px;
+  }
+	
+	#carrinho, #limpa_sess {
+		color:white;
+		background-color:#25d366;
+		width:80%;
+		font-size:15px;
+		font-weight:500;
+		
+	}
+	
+	#limpa_sess {
+		width:15%;
+		background-color:#C82333;
+	}
+	
+	
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		

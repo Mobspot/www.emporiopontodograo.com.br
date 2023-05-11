@@ -1,0 +1,42 @@
+.container-banner {
+	width:100%;
+	text-align:center;
+	background-color:red;
+	margin:0;
+	padding:0;
+	display:flex;
+	justify-content:center;
+}
+
+.container-banner2 {
+	background-color: rgba(200,200,200,0.6); 
+	padding:30px; 
+	border-radius:10px;
+	margin:0 10px 0 10px;
+}
+
+.container-banner2 div h2, h4 {
+	text-shadow: 1px 1px 2px #000;
+}
+
+.container-banner2 div h1 {
+	text-shadow: 0px 0px 10px #D5AF56; 
+	color:#125E9C;
+}
+
+.botao-loja {
+	border:2px solid #125E9C; 
+	color:#125E9C; text-size:40px;
+	padding:10px 40px;
+	font-size:20px;
+	font-weight: 700;
+	border-radius:50px;
+	transition-duration: 0.5s;
+}
+
+.botao-loja:hover {
+	background-color:#125E9C;
+	color:white;
+	transition-duration: 0.5s;
+}
+
